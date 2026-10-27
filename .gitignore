@@ -1,0 +1,18 @@
+# Entorno portátil y herramientas locales
+.git_portable/
+mingit.zip
+
+# Dependencias de Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema operativo y temporales
+.DS_Store
+Thumbs.db
+*.tmp
+scratch/
+
+# Archivo comprimido grande (opcionalmente ignorado para mantener el repo ligero)
+smart_menu_cbo_web.zip
